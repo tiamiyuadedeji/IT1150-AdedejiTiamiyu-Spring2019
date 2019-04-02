@@ -1,0 +1,23 @@
+                Hands on Exercise 1
+Url of the website: https://www.arm.gov/
+Name of the website: Arm(Atmospheric Radiation Movement.)
+Target audience: Sciencetist or people who are interested in research.
+Screen shot of the home page:
+Navigation evidrnt: They use Horizontal navigation bar and also dynamic navigation on the top of the highlight followed by the user page
+How the design principle of contrast, repetition, alignment, and proximity are applied: the whole content is well aligned through the use of seperate tabs. Good colors was also used on the website, background and text color. the text size was alos visible to all person.
+Recommend three improvent for the website: 
+1)It takes time for the site to load, i will advice they decrease the size of the files on the websit. 
+2) too much information on each page. i suggest they remove some unwanted information from the website.
+3) Home page doesnt have introduction of the website
+
+
+                Responsive Web Design
+Url of the website: https://mediaqueri.es
+Name of the website: Media Queries
+Target audience: people who are interested in technology based topics.
+Screen shot of the home page:
+Similarities between the Screen shots.
+Desktop display, it shows a wide range of the website
+Laptop display, the context on the website decrease a little.
+Smartphone display, the content decrease to fit the size of the screen.
+Does the website meet the need of its target audience in all three display mode: Yes the content on the website gets smaller as the screen decreases, keeping all its information.
