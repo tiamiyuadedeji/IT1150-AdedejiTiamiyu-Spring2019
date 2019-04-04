@@ -1,0 +1,16 @@
+body {
+	background-color: white;
+	font-family: Arial, sans-serif;
+	color: blue;
+	border-style: dashed;
+	boarder-color: green;	
+}
+
+#main {
+float:left;
+width:500px;
+}
+#sidebar {
+float:right;
+width:250px;
+}
